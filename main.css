@@ -1,0 +1,53 @@
+.layout {
+    width: 1920px;
+    height: 1080px;
+  
+    display: grid;
+    grid-template-rows: repeat(auto-fit, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+}
+
+@import url("reset.css");
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333
+}
+
+p {
+    padding: 80px;
+}
+
+#wrapper {
+    margin: 100 auto;
+    width: 1000px;
+}
+
+#headerwrap {
+    width: 1000px;
+    float: left;
+    margin: 0 auto;
+}
+
+#header {
+    height: 250px;
+    background: #9305FF;
+    border-radius: 10px;
+    border: 1px solid #7f00eb;
+    margin: 5px;
+}
+
+#contentwrap {
+    width: 10000;
+    float: left;
+    margin: 0 auto;
+}
+
+#content {
+    background: #9203FF;
+    border-radius: 10px;
+    border: 1px solid #7e00eb;
+    margin: 5px;
+}
