@@ -11,7 +11,8 @@
 
  var games = {
     // "binary-id": "Game Name",
-    "pokemonemerald": "Pokemon Emerald"
+    "pokemonemerald": "Pokemon Emerald",
+    "pokemonred": "Pokemon Rojo Fuego"
 
     /*
     "advancewars": "Advance Wars",
