@@ -26,7 +26,7 @@
     "kirbymirror": "Kirby & The Amazing Mirror",
     "kirbynightmare": "Kirby: Nightmare in Dreamland",
     "mariokart": "Mario Kart: Super Circuit",
-    "marioland": "Mario Land Game Boy (En Ingles)",
+    "marioland": "Mario Land Game Boy",
     "marioparty": "Mario Party Advance",
     "megamanbass": "Megaman & Bass",
     "megaman_battle1": "Megaman Battle Network 1",
