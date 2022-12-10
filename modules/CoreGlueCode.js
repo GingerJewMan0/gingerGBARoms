@@ -14,7 +14,7 @@
     "advancewars": "Advance Wars",
     "advancewars2": "Advance Wars 2",
     "ff1and2": "Final Fantasy 1 & 2 Advance",
-    "ff4S": "Final Fantasy IV Advance (Sound Restoration Mod)",
+    "ff4S": "Final Fantasy IV Advance",
     "ff6": "Final Fantasy VI Advance",
     "final_fantasy_tactics": "Final Fantasy Tactics Advance",
     "fire_emblem": "Fire Emblem",
