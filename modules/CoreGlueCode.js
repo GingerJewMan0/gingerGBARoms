@@ -49,7 +49,6 @@
     "pokemonruby": "Pokemon Rubí",
     "pokemonsapphire": "Pokemon Zafiro",
     "pokemonred": "Pokemon Rojo Fuego",
-    "pokemoncristal": "Pokemon Cristal",
     "sonic_advance": "Sonic Advance",
     "sonic_advance2": "Sonic Advance 2",
     "sonic_advance3": "Sonic Advance 3",
@@ -171,7 +170,6 @@ window.onload = function() {
 
 function downloadBIOS() {
     downloadFile("binaries/gba_bios.bin", registerBIOS);
-    downloadFile("binaries/gbc_bios.bin", registerBIOS);
 }
 
 function registerBIOS() {
@@ -182,8 +180,6 @@ function registerBIOS() {
 function downloadROM(gamename) {
     writeRedTemporaryText("Downloading \"" + games[gamename] + ".\"");
     downloadFile("binaries/" + gamename + ".gba", registerROM);
-    downloadFile("binaries/" + gamename + ".gbc", registerROM);
-    downloadFile("binaries/" + gamename + ".gb", registerROM);
 }
 
 function registerROM() {
