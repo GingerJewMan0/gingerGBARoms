@@ -43,8 +43,6 @@
     "metroidzero": "Metroid Zero Mission",
     "pokemonemerald": "Pokemon Emerald",
     "pokemongreen": "Pokemon Verde Hoja",
-    "mysteryred": "Pokémon Mundo Misterioso: Equipo de Rescate Rojo",
-    "mysteryblue": "Pokémon Mundo Misterioso: Equipo de Rescate Azul",
     "pokemonruby": "Pokemon Rubí",
     "pokemonsapphire": "Pokemon Zafiro",
     "pokemonred": "Pokemon Rojo Fuego",
