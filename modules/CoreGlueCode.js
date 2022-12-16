@@ -47,6 +47,7 @@
     "pokemonruby": "Pokemon Rubí",
     "pokemonsapphire": "Pokemon Zafiro",
     "pokemonred": "Pokemon Rojo Fuego",
+    "pokemongbc": "Pokemon GB/GBC",
     "sonic_advance": "Sonic Advance",
     "sonic_advance2": "Sonic Advance 2",
     "sonic_advance3": "Sonic Advance 3",
