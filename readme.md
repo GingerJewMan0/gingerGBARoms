@@ -1,4 +1,4 @@
-Versión de GBAjs.org
+Versión en español de gba.js.org 
 
 codigo original por:  ayvacs
 
